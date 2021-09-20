@@ -1,4 +1,4 @@
-# CLI
+# C-CLI
 API based CLI application for templates used in project.
 
 ## Usage:
